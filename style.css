@@ -1,11 +1,14 @@
 @media screen and (max-width: 426px) {
-    #idisappear{
+    #idisappear {
         display: none;
     }
-    #colorchange{
-        color:white;
+    #colorchange {
+        color: white;
     }
-    #colorwh{
+    #colorwh {
         color: white;
     }
 }
+
+
+/* 120 */
